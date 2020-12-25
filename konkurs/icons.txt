@@ -1,0 +1,5 @@
+https://fontawesome.com/icons/book?style=solid		<i class="fas fa-book"></i>
+https://fontawesome.com/icons/globe?style=solid
+https://fontawesome.com/icons/thumbs-up?style=solid
+https://fontawesome.com/icons/clock?style=regular
+https://fontawesome.com/icons/envelope?style=solid

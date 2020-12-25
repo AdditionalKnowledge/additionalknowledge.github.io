@@ -1,0 +1,14 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+body{
+    margin: 0;
+    height: 1645px;
+    font-family: 'Play', sans-serif;
+    background: linear-gradient(180deg, #FBE8DD 0%, rgba(255, 194, 159, 0.71) 100%)center no-repeat;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
